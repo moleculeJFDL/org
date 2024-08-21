@@ -69,13 +69,13 @@ header {
     font-size: 60px;
     font-weight: 600;
     text-transform: uppercase;
-    color: #fff;
+    color: #171717;
 }
 
 p {
     margin-bottom: 40px;
     font-size: 18px;
-    color: #fff;
+    color: #171717;
     padding: 0 100px;
 
 }
@@ -85,7 +85,7 @@ p {
     margin-top: 15px;
     padding: 10px 40px;
     border: 2px solid #9c27b0;
-    color: #fff;
+    color: #171717;
     text-decoration: none;
     background: #9c27b0;
 }
@@ -138,7 +138,7 @@ p {
     line-height: 3rem;
     text-align: center;
     border-radius: 50%;
-    color: #fff;
+    color: #171717;
     background: #9c27b0;
     font-size: 2rem;
     margin: 1rem 0;
