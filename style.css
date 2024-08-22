@@ -81,7 +81,26 @@ footer {
     bottom: 0;
     box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
 }
+/* Patreon Banner Styles */
+.patreon-banner {
+    background-color: #f7f7f7; /* Light background color */
+    color: #333; /* Dark text color */
+    text-align: center;
+    padding: 1em;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 1.1em;
+    border-bottom: 2px solid #00796b; /* Teal border */
+}
 
+.patreon-banner a {
+    color: #00796b; /* Teal link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.patreon-banner a:hover {
+    text-decoration: underline;
+}
 footer p {
     margin: 0;
 }
